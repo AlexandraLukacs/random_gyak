@@ -95,6 +95,7 @@ def veletlen_szam_muveletek():
             print(f"A(z) {osszeg} nem egyenlő 5-tel!")  
         i += 1
    
+   
 def szoveg_kiiras(szoveg):
     '''5. Írj metódust, mely a paraméterben kapott szövegnek kiírja a hosszát!
         Az 5. karakterét nagybetűvel!'''
