@@ -2,4 +2,4 @@ import feladatok
 
 import gyakorlas
 
-gyakorlas.intervallum()
+gyakorlas.szoveg_kiiras("Pingvin")
