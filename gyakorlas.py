@@ -103,7 +103,7 @@ def szoveg_kiiras(szoveg):
     print(szoveg)
     hossz = len(szoveg)
     print("A szöveg hossza:", hossz)
-    nagybetu = szoveg[:4] + szoveg[4].upper() + szoveg[5:]
+    nagybetu = szoveg[5].upper()
     print(nagybetu)
     
     
